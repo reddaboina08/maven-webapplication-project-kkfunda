@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+y<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.net.*" %>
 <!DOCTYPE html>
 <html>
@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> Welcome to KK FUNDA DEVOPS MEETUP in HYD This Sunday 07-12-2025</h1>
+    <h1> Welcome to KK FUNDA DEVOPS MEETUP in HYD This Sunday 07-12-2025 Ready</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
