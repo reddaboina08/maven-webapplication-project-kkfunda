@@ -46,9 +46,11 @@ y<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="U
 <body>
 
 <header>
-    <h1> Welcome to KK FUNDA DEVOPS MEETUP in HYD competed!!</h1>
+    <h1> Welcome to DevOps!!</h1>
+    <scowling>😠</scowling>
     <h3>Training | Development | Consulting</h3>
 </header>
+
 
 <div class="container">
 
