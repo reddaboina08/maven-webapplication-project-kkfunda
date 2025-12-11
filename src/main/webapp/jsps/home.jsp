@@ -46,8 +46,7 @@ y<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="U
 <body>
 
 <header>
-    <h1> Welcome to DevOps!!</h1>
-    <scowling>😠</scowling>
+  <bdo dir="rtl">  <h1> Welcome to DevOps!! </h1> </bdo>
     <h3>Training | Development | Consulting</h3>
 </header>
 
