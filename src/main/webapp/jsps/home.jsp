@@ -46,7 +46,7 @@ y<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="U
 <body>
 
 <header>
-     <h1> Welcome to DevOps!! Sunday </h1>
+     <h1> Welcome to DevOps!! Sunday End</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
